@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algartech", "SistemaVenta\Algartech.csproj", "{A52CC536-2696-4304-BC2A-DBC05DE46623}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utilidad", "Utilidad\Utilidad.csproj", "{55F4B984-9494-486E-9594-BD3980978FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52CC536-2696-4304-BC2A-DBC05DE46623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52CC536-2696-4304-BC2A-DBC05DE46623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52CC536-2696-4304-BC2A-DBC05DE46623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52CC536-2696-4304-BC2A-DBC05DE46623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F4B984-9494-486E-9594-BD3980978FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F4B984-9494-486E-9594-BD3980978FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F4B984-9494-486E-9594-BD3980978FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F4B984-9494-486E-9594-BD3980978FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {142BD1CF-96F6-40C7-A966-B8988933A871}
+	EndGlobalSection
+EndGlobal
